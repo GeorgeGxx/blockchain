@@ -1,4 +1,4 @@
-# Smart Contracts Projects
+# Smart Contracts & Ethereum Projects
 
 - CRUD
 - Decentralized App
